@@ -1,8 +1,6 @@
 ### Hi there 👋
+<a href=”https://github.com/EuMYTH/EuMYTH"> <img src=”[images/FilmNow.jpeg](https://stock.adobe.com/uk/search?k=%22welcome+banner%22&asset_id=525593087)” width=”300px”> </a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 <!--
 **EuMYTH/EuMYTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
