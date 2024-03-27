@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Welcome to my page!
-
+### - 🔭 I’m currently working on a new Python Project
+### - 🌱 I’m currently learning Data Science
 
 <!--
 **EuMYTH/EuMYTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
